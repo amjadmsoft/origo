@@ -19,9 +19,9 @@
     </properties>
 
 	<scm>
-		<connection>scm:git:https://github.com/amjadmsoft/origo.git</connection>
+		<connection>scm:git:git@github.com:amjadmsoft/origo.git</connection>
 		<url>https://github.com/amjadmsoft/origo</url>
-		<developerConnection>scm:git:https://github.com/amjadmsoft/origo.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:amjadmsoft/origo.git</developerConnection>
 		<tag>rapidstart-createaccount-1.0</tag>
 	</scm>
 	
